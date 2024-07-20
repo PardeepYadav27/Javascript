@@ -1,9 +1,9 @@
 # Javascript
 "Embark on your journey into the world of web development and beyond with JavaScript, where creativity meets functionality."
-# Basic Understanding of Javascript
-# Enviourment setup (editor lile atom, subline, vs code)
-# Git steup using codespace
-# Const, let and var variables
-# Datatypes adn EMCA standards
+1.Basic Understanding of Javascript
+2.Enviourment setup (editor lile atom, subline, vs code)
+3.Git steup using codespace
+4.Const, let and var variables
+5.Datatypes adn EMCA standards
 
 
